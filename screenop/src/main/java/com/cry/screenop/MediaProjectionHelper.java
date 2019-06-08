@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.hardware.display.VirtualDisplay;
 import android.media.projection.MediaProjection;
 import android.media.projection.MediaProjectionManager;
-import android.support.v4.app.FragmentActivity;
+import androidx.fragment.app.FragmentActivity;
 
 import com.cry.acresult.ActivityResultRequest;
 import com.cry.acresult.ResultEvent;

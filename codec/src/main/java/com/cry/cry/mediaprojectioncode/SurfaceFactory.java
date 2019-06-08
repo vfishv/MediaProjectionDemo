@@ -1,6 +1,6 @@
 package com.cry.cry.mediaprojectioncode;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.view.Surface;
 
 public interface SurfaceFactory {
